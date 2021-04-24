@@ -19,4 +19,4 @@ Hold <kbd>ctrl</kbd>+<kbd>alt</kbd> and click on any link. It'll be opened in in
 
 ---
 
-This is still not complete and there are likely some hidden bugs. Contribute by reporting the bugs or sending pull requests :smile:
+Contribute by reporting the bugs or sending pull requests :smile:
